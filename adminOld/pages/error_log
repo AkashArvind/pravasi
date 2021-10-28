@@ -1,0 +1,5 @@
+[06-Jun-2019 15:19:46 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/archikites15/public_html/kshethrakalaakademi.org/test/Admin/pages/artistprofiles.php on line 68
+[06-Jun-2019 15:19:48 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/archikites15/public_html/kshethrakalaakademi.org/test/Admin/pages/artistprofiles.php on line 68
+[11-Jun-2019 12:21:44 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/archikites15/public_html/kshethrakalaakademi.org/KshethrakalaAdm/pages/artistprofiles.php on line 68
+[11-Jun-2019 12:22:42 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/archikites15/public_html/kshethrakalaakademi.org/KshethrakalaAdm/pages/artistprofiles.php on line 68
+[11-Jul-2019 05:59:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archikites15/public_html/kshethrakalaakademi.org/KshethrakalaAdm/include/connection/functions_log.php on line 98

@@ -1,0 +1,15 @@
+<?php
+session_start();
+if(!isset($_GET['ln'],$_GET['redr']))
+{
+	header('Location:../index.php');
+}
+else
+{
+	$Changeto=$_GET['ln'];
+	$rdrTo=$_GET['redr'];
+	urldecode($rdrTo);
+	$_SESSION['curntLng']=$Changeto;
+	header('Location:../'.$rdrTo);
+}
+?>
